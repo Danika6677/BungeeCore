@@ -1,0 +1,14 @@
+#######################################################################################################################
+#                                           BungeeCore (TestVersion)                                                  #
+#                                           Version: git2280-B0.6.1                                                   #
+#                                           Created By: Danika6677                                                    #
+#                                           Coded In: Java :)                                                         #
+#######################################################################################################################
+# Konzol ignorálása #
+onlyplayers: '&8[&aHub&8] &7Csak játékos!'
+# Szerver ahhova a játékos fog menni a /lobby parancs lefuttatásakkor #
+server: 'lobby'
+# Ha már bent van a szerveren #
+marcsatlakozvavan: '&8[&aHub&8] &7Már a szerveren vagy!'
+# Jog #
+permission: 'permission.lobby'

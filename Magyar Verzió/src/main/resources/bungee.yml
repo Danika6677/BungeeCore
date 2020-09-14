@@ -1,0 +1,4 @@
+name: BungeeCore
+version: ${project.version}
+main: hu.minehun.bungeecore.BungeeCore
+description: BungeeCore test version plugin!

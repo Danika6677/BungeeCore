@@ -1,0 +1,14 @@
+#######################################################################################################################
+#                                           BungeeCore (TestVersion)                                                  #
+#                                           Version: git2280-B0.6.1                                                   #
+#                                           Created By: Danika6677                                                    #
+#                                           Coded In: Java :)                                                         #
+#######################################################################################################################
+# Disable Console #
+onlyplayers: '&8[&aHub&8] &7Only Players!'
+# Server that player gonna join in /lobby #
+server: 'lobby'
+# If the player is on the server #
+marcsatlakozvavan: '&8[&aHub&8] &7You are already connected to the server!'
+# Permission #
+permission: 'permission.lobby'
